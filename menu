@@ -1,0 +1,10 @@
+[begin] (fluxbox)
+[exec] (Terminal) {/usr/bin/xfce4-terminal} </usr/share/pixmaps/terminal.xpm>
+[exec] (Google Chrome) {/usr/bin/google-chrome} </usr/share/pixmaps/firefox.xpm>
+[exec] (Tor Browser) {/home/tom/Downloads/tor-browser_en-US/start-tor-browser} </usr/share/pixmaps/firefox.xpm>
+[exec] (KeepassX) {/usr/bin/keepassx} </usr/share/pixmaps/keepassx.png>
+[exec] (File Explorer) {/usr/bin/thunar} </usr/share/pixmaps/nautilus.xpm>
+[exec] (XP VB Image) {/home/tom/startxp.sh} </usr/share/pixmaps/virtualbox.xpm>
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[exec] (Suspend) {gksudo pm-suspend} 
+[end]
