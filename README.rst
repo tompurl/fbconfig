@@ -28,3 +28,4 @@ If you have any questions about any of these files, then please free to either
 .. Links
 
 .. _send an email message to me: tom@tompurl.com
+.. _Fluxbox: http://fluxbox.org/
